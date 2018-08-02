@@ -12,6 +12,12 @@ Go to Apple menu > About This Mac > Software Update.
 - Set highlight colour to "Graphite"
 - Set sidebar icon size to "Small"
 
+### Desktop & Screen Saver > Screen Saver
+Enable Ken Burns effect with 'Wallpapers' as source
+Enable hot corners:
+- Top Right: Put Display to Sleep
+- Bottom Right: Start Screen Saver
+
 ### Keyboard
 - Set key repeat to "Fast"
 - Set delay until repeat to fourth setting
