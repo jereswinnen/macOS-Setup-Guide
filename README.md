@@ -55,6 +55,8 @@ Download the following shell script and run it in Terminal.app. This will instal
 ## Manual app installs
 - Install Firefox Developer Edition: (https://www.mozilla.org/en-US/firefox/developer/)
 
+## Install Fonts found in /Documents/Fonts/
+
 ## Application settings
 ### Enable Develop menu in Safari
 1. Open Safari Preferences
