@@ -52,7 +52,25 @@ Install Node.js by visiting the nodejs website [the nodejs website](https://node
 ## Install dev tools and applications
 Download the following shell script and run it in Terminal.app. This will install the required development tools and apps.
 
-## Application Settings
+## Manual app installs
+- Install Firefox Developer Edition: (https://www.mozilla.org/en-US/firefox/developer/)
+
+## Application settings
+### Enable Develop menu in Safari
+1. Open Safari Preferences
+2. Advanced
+3. Enable 'Show Develop menu in menu bar'
+
+### Set Sip keyboard shortcuts
+- Show Picker: Shift + Command + C
+
+### Set 1Password keyboard shortcuts
+- Show 1Password Mini: Shift + Command + P
+
+### Set Spectacle keyboard shortcuts
+- Center: Alt + Command + C
+- Fullscreen: Alt + Command + F
+
 ### Import BetterTouchTool preset
 Import BetterTouchTool preset found in `/BetterTouchTool/Default.json`
 
