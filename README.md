@@ -57,6 +57,9 @@ Install Node.js by visiting the nodejs website [the nodejs website](https://node
 
 ## Install dev tools and applications
 Download the following shell script and run it in Terminal.app. This will install the required development tools and apps.
+1. Open Terminal.app
+2. type in `sh` followed by a space
+3. Drag in Shell script and press enter to execute
 
 ## Manual app installs
 - Install Firefox Developer Edition: (https://www.mozilla.org/en-US/firefox/developer/)
@@ -89,8 +92,8 @@ Download the following shell script and run it in Terminal.app. This will instal
 
 ### Visual Studio Code
 1. Open the command palette, search for 'Settings Sync' and install the plugin
-2. After reloading the app, open the Command Palette and type "sync download settings" and enter GitHub Gist ID: `c9c20f89a479521d7c9a63ad6ec25063`.
-3. Reload Visual Studio Code.
+2. After reloading the app, open the Command Palette and type "sync download settings" and enter GitHub Gist ID: `c9c20f89a479521d7c9a63ad6ec25063`
+3. Reload Visual Studio Code
 
 ### iStat Menus
 - Set update frequency to "Medium"
