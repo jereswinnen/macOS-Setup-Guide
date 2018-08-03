@@ -18,14 +18,15 @@ Enable hot corners:
 - Top Right: Put Display to Sleep
 - Bottom Right: Start Screen Saver
 
-### Keyboard
-- Set key repeat to "Fast"
-- Set delay until repeat to fourth setting
-
 ### Dock
 - Turn hiding on
 - Turn magnification on
+- Minimize windows using scale effect
 - Run Terminal command: `defaults write com.apple.Dock autohide-delay -float 0 && killall Dock`
+
+### Keyboard
+- Set key repeat to "Fast"
+- Set delay until repeat to fourth setting
 
 ### Trackpad
 - Enable tap to click
