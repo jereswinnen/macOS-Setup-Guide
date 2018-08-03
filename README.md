@@ -63,31 +63,34 @@ Download the following shell script and run it in Terminal.app. This will instal
 
 ## Install Fonts found in /Documents/Fonts/
 
+## Install Safari Extensions
+- AdGuard AdBlocker: (https://adguard.com/en/adguard-browser-extension/overview.html)
+
 ## Application settings
-### Enable Develop menu in Safari
-1. Open Safari Preferences
-2. Advanced
-3. Enable 'Show Develop menu in menu bar'
+### Safari
+- Safari opens with a new window
+- New windows open with favourites
+- New tabs open with favourites
+- Empty out 'Homepage'
+- Set DuckDuckGo as default search engine
 
-### Set Sip keyboard shortcuts
-- Show Picker: Shift + Command + C
+### Sip
+- Show Picker keyboard shortcut: Shift + Command + C
 
-### Set 1Password keyboard shortcuts
-- Show 1Password Mini: Shift + Command + P
+### 1Password
+- Show 1Password Mini keyboard shortcut: Shift + Command + P
 
-### Set Spectacle keyboard shortcuts
-- Center: Alt + Command + C
-- Fullscreen: Alt + Command + F
+### Spectacle
+- Center keyboard shortcut: Alt + Command + C
+- Fullscreen keyboard shortcut: Alt + Command + F
 
-### Import BetterTouchTool preset
-Import BetterTouchTool preset found in `/BetterTouchTool/Default.json`
+### BetterTouchTool
+- Import BetterTouchTool preset found in `/BetterTouchTool/Default.json`
 
-### Install VS Code Settings Sync
-1. Open Visual Studio Code and open the Command Palette. Search for 'Settings Sync' and install the plugin.
-
-2. After reloading VS Code, open the Command Palette and type "sync download settings" and enter GitHub Gist ID: `c9c20f89a479521d7c9a63ad6ec25063`.
-
-3. Reload VS Code.
+### Visual Studio Code
+1. Open the command palette, search for 'Settings Sync' and install the plugin
+2. After reloading the app, open the Command Palette and type "sync download settings" and enter GitHub Gist ID: `c9c20f89a479521d7c9a63ad6ec25063`.
+3. Reload Visual Studio Code.
 
 ### iStat Menus
 - Set update frequency to "Medium"
