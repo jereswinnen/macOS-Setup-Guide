@@ -40,16 +40,6 @@ Enable hot corners:
 ### Bluetooth
 - Show Bluetooth in menu bar
 
-### Users & Groups: Login Items
-**Set these items after installing applications.**
-- iStat Menus (Hide)
-- Sip (Hide)
-- xScope (Hide)
-- BetterTouchTool (Hide)
-- HighSierraMediaKeyEnabler (Hide)
-- TimingHelper (Hide)
-- Spectacle (Hide)
-
 ### Date & Time > Clock
 - Enable 'Display the time with seconds'
 
@@ -106,3 +96,14 @@ Double click font files to add them to Font Book.
 - Enable CPU & GPU
 - Enable Memory
 - Enable Battery/Power (if applicable)
+
+## System Preferences (after installing apps)
+### Users & Groups: Login Items
+**Set these items after installing applications.**
+- iStat Menus (Hide)
+- Sip (Hide)
+- xScope (Hide)
+- BetterTouchTool (Hide)
+- HighSierraMediaKeyEnabler (Hide)
+- TimingHelper (Hide)
+- Spectacle (Hide)
