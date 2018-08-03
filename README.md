@@ -56,6 +56,10 @@ Enable hot corners:
 ## Install Node.js
 Install Node.js by visiting [the nodejs website](https://nodejs.org/en/download/current/).
 
+## Install Xcode Command Line Tools
+1. Open Terminal.app
+2. Type in `xcode-select --install` and press enter
+
 ## Install dev tools and applications
 Download the following shell script and run it in Terminal.app. This will install the required development tools and apps.
 1. Open Terminal.app
