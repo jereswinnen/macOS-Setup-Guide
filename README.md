@@ -54,7 +54,7 @@ Enable hot corners:
 - Enable 'Display the time with seconds'
 
 ## Install Node.js
-Install Node.js by visiting the nodejs website [the nodejs website](https://nodejs.org/en/download/current/).
+Install Node.js by visiting [the nodejs website](https://nodejs.org/en/download/current/).
 
 ## Install dev tools and applications
 Download the following shell script and run it in Terminal.app. This will install the required development tools and apps.
