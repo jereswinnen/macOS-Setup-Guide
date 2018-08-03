@@ -43,6 +43,9 @@ Enable hot corners:
 ### Date & Time > Clock
 - Enable 'Display the time with seconds'
 
+### Accessibility > Zoom
+- Enable 'Use scroll gesture with modifier keys to zoom'
+
 ## Install Node.js
 Install Node.js by visiting [the nodejs website](https://nodejs.org/en/download/current/).
 
