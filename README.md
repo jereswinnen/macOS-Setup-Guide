@@ -65,6 +65,7 @@ Download the following shell script and run it in Terminal.app. This will instal
 - Install Firefox Developer Edition: (https://www.mozilla.org/en-US/firefox/developer/)
 
 ## Install Fonts found in /Documents/Fonts/
+Double click font files to add them to Font Book.
 
 ## Install Safari Extensions
 - AdGuard AdBlocker: (https://adguard.com/en/adguard-browser-extension/overview.html)
