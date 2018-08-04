@@ -24,6 +24,10 @@ Enable hot corners:
 - Minimize windows using scale effect
 - Run Terminal command: `defaults write com.apple.Dock autohide-delay -float 0 && killall Dock`
 
+### Displays > Night Shift
+- Set schedule to 'Sunset to Sunrise'
+- Set Color Temperature to 25%
+
 ### Keyboard
 - Set key repeat to "Fast"
 - Set delay until repeat to fourth setting
