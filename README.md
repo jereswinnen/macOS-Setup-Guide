@@ -92,8 +92,10 @@ Double click font files to add them to Font Book.
 
 ### Visual Studio Code
 1. Open the command palette, search for 'Settings Sync' and install the plugin
-2. After reloading the app, open the Command Palette and type "sync download settings" and enter GitHub Gist ID: `c9c20f89a479521d7c9a63ad6ec25063`
-3. Reload Visual Studio Code
+2. After reloading the app, open the Command Palette and type "sync download settings" 
+3. The extension automatically opens the GitHub website to generate a new token
+4. Copy token and paste in the extension
+5. Reload Visual Studio Code
 
 ### iStat Menus
 - Set update frequency to "Medium"
