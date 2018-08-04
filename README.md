@@ -111,3 +111,4 @@ Double click font files to add them to Font Book.
 - HighSierraMediaKeyEnabler (Hide)
 - TimingHelper (Hide)
 - Spectacle (Hide)
+- Vanilla (Hide)
