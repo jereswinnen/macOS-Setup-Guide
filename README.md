@@ -75,6 +75,7 @@ Double click font files to add them to Font Book.
 - New tabs open with favourites
 - Empty out 'Homepage'
 - Set DuckDuckGo as default search engine
+- Enable 'Show develop menu in menu bar'
 
 ### Sip
 - Show Picker keyboard shortcut: Shift + Command + C
