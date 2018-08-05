@@ -9,6 +9,9 @@ sudo gem install bundler
 # Install Homebrew Cask
 brew tap caskroom/cask
 
+# Install Quick Look Plugins
+brew cask install qlimagesize
+
 # Install Apps
 brew cask install 1password
 brew cask install abstract
