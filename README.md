@@ -69,6 +69,9 @@ Download the following shell script and run it in Terminal.app. This will instal
 ## Install Fonts found in /Documents/Fonts/
 Double click font files to add them to Font Book.
 
+## Install Apple San Francisco font
+Download the .pkg installer file: (https://developer.apple.com/fonts/)
+
 ## Install Safari Extensions
 - AdGuard AdBlocker: (https://adguard.com/en/adguard-browser-extension/overview.html)
 
