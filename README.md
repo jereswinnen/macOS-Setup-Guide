@@ -65,6 +65,7 @@ Download the following shell script and run it in Terminal.app. This will instal
 
 ## Manual app installs
 - Install Firefox Developer Edition: (https://www.mozilla.org/en-US/firefox/developer/)
+- Install Logi Options+:(https://www.logitech.com/en-us/software/logi-options-plus.html)
 
 ## Install Fonts found in /Documents/Fonts/
 Double click font files to add them to Font Book.
@@ -118,4 +119,4 @@ Download the .pkg installer file: (https://developer.apple.com/fonts/)
 - xScope (Hide)
 - BetterTouchTool (Hide)
 - Spectacle (Hide)
-- Vanilla (Hide)
+- Hidden Bar (Hide)
