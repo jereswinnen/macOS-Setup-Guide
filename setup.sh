@@ -13,28 +13,28 @@ brew tap homebrew/cask
 brew cask install qlimagesize
 
 # Install Apps
-brew cask install 1password
-brew cask install android-studio
-brew cask install asana
-brew cask install bettertouchtool
-brew cask install codekit
-brew cask install cyberduck
-brew cask install figma
-brew cask install github
-brew cask install google-chrome
-brew cask install hiddenbar
-brew cask install imagealpha
-brew cask install imageoptim
-brew cask install istat-menus
-brew cask install iterm2
-brew cask install raycast
-brew cask install setapp
-brew cask install sip
-brew cask install sketch
-brew cask install slack
-brew cask install sleeve
-brew cask install spectacle
-brew cask install visual-studio-code
+brew install --cask 1password
+brew install --cask android-studio
+brew install --cask asana
+brew install --cask bettertouchtool
+brew install --cask codekit
+brew install --cask cyberduck
+brew install --cask figma
+brew install --cask github
+brew install --cask google-chrome
+brew install --cask hiddenbar
+brew install --cask imagealpha
+brew install --cask imageoptim
+brew install --cask istat-menus
+brew install --cask iterm2
+brew install --cask raycast
+brew install --cask setapp
+brew install --cask sip
+brew install --cask sketch
+brew install --cask slack
+brew install --cask sleeve
+brew install --cask spectacle
+brew install --cask visual-studio-code
 
 # Install Homebrew MAS
 brew install mas
