@@ -7,7 +7,7 @@ sudo gem install bundler
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install Homebrew Cask
-brew tap caskroom/cask
+brew tap homebrew/cask
 
 # Install Quick Look Plugins
 brew cask install qlimagesize
