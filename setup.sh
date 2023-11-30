@@ -9,9 +9,10 @@ sudo gem install bundler
 # Install Homebrew Cask
 brew tap homebrew/cask
 
-# Install ZSH
+# Install ZSH and packages/themes
 brew install zsh
 brew install pure
+brew install zsh-syntax-highlighting
 
 # Install Quick Look Plugins
 brew cask install qlimagesize
