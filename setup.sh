@@ -13,6 +13,7 @@ brew tap homebrew/cask
 brew install zsh
 brew install pure
 brew install zsh-syntax-highlighting
+brew install powerlevel10k
 
 # Install Quick Look Plugins
 brew cask install qlimagesize
