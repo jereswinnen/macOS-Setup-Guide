@@ -85,12 +85,6 @@ Download the .pkg installer file: (https://developer.apple.com/fonts/)
 - Set DuckDuckGo as default search engine
 - Enable 'Show develop menu in menu bar'
 
-### Sip
-- Show Picker keyboard shortcut: Shift + Command + C
-
-### 1Password
-- Show 1Password Mini keyboard shortcut: Shift + Command + P
-
 ### Spectacle
 - Center keyboard shortcut: Alt + Command + C
 - Fullscreen keyboard shortcut: Alt + Command + F
@@ -120,3 +114,7 @@ Download the .pkg installer file: (https://developer.apple.com/fonts/)
 - BetterTouchTool (Hide)
 - Spectacle (Hide)
 - Hidden Bar (Hide)
+
+## Homebrew
+### Write powerlevel10k plugin to ZSH
+- echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
