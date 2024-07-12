@@ -31,6 +31,7 @@ Enable hot corners:
 ### Keyboard
 - Set key repeat to "Fast"
 - Set delay until repeat to fourth setting
+- Add App Keyboard Short for Xcode to enable SwiftFormat on Save usign the 'Editor->SwiftFormat->Format File' menu item
 
 ### Trackpad
 - Enable tap to click
