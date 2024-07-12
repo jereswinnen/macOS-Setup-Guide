@@ -40,6 +40,7 @@ brew install --cask sketch
 brew install --cask slack
 brew install --cask sleeve
 brew install --cask spectacle
+brew install --cask swiftformat-for-xcode
 brew install --cask visual-studio-code
 
 # Install Homebrew MAS
